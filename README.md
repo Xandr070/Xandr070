@@ -18,4 +18,4 @@
 [![Telegram](https://img.shields.io/badge/telegram-151515?style=for-the-badge&logo=telegram)](https://t.me/Xandair)
 [![Vk](https://img.shields.io/badge/VKONTAKTE-151515?style=for-the-badge&logo=vk)](https://vk.com/xandr070)
 ##
-![Alexander Ivanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandr070&hide=stars&icon_color=ffffff&show_icons=true&theme=dark)
+![Alexander Ivanov's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xandr070&hide=stars&icon_color=ffffff&show_icons=true&theme=transparent)
