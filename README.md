@@ -5,7 +5,7 @@
 ### Languages and Tools
 ![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=CSS3)
-![Javascrips](https://img.shields.io/badge/Java_script-151515?style=for-the-badge&logo=javascript)
+![Javascrips](https://img.shields.io/badge/Javascript-151515?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap)
 ![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react)
 ![Figma](https://img.shields.io/badge/figma-151515?style=for-the-badge&logo=figma)
