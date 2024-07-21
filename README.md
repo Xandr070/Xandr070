@@ -1,9 +1,17 @@
 <img src="https://github.com/Xandr070/Xandr070/blob/main/assets/Group%201%20(1).png" width=100%/>
 
-About me
+## Student, beginner web developer
 
-Latest
+### Languages and Tools
+![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=CSS3)
+![Javascrips](https://img.shields.io/badge/Java_script-151515?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-151515?style=for-the-badge&logo=bootstrap)
+![React](https://img.shields.io/badge/React-151515?style=for-the-badge&logo=react)
+![Figma](https://img.shields.io/badge/figma-151515?style=for-the-badge&logo=figma)
+![PostgreSQL](https://img.shields.io/badge/postgreSQL-151515?style=for-the-badge&logo=postgreSQL)
+![Java](https://img.shields.io/badge/Java-151515?style=for-the-badge&logo=java)
+![Git](https://img.shields.io/badge/Git-151515?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/github-151515?style=for-the-badge&logo=github)
 
-Languages
-
-Follow me
+## Follow me
