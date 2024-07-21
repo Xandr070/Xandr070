@@ -15,3 +15,5 @@
 ![Github](https://img.shields.io/badge/github-151515?style=for-the-badge&logo=github)
 
 ## Follow me
+[![Telegram](https://img.shields.io/badge/telegram-151515?style=for-the-badge&logo=telegram)](https://t.me/Xandair)
+[![Vk](https://img.shields.io/badge/VKONTAKTE-151515?style=for-the-badge&logo=vk)](https://vk.com/xandr070)
